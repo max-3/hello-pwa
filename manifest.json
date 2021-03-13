@@ -1,14 +1,14 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
+  "name": "Hello World🥕",
+  "short_name": "Hello🥕",
   "icons": [{
       "src": "images/hello-icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }],
   "lang": "en-US",
-  "start_url": "./index.html",
+  "start_url": "//max-3.github.io/pwa/index.html",
   "display": "standalone",
-  "background_color": "white",
-  "theme_color": "white"
+  "background_color": "red",
+  "theme_color": "red"
 }
